@@ -12,6 +12,9 @@ It includes **real-world patterns** that can be extended across **healthcare**, 
 Each notebook or script represents a key NLP capability implemented through Azure services and Python SDKs — from **text analytics and custom model training** to **voice-interactive generative agents**.
 
 ---
+📂 **Explore the Project:**  
+- View implementation notebooks in the **[Projects](./Projects)** folder  
+- See experiment visuals in the **[Lab Screenshots](./lab_screenshots)** folder  
 
 ## 🧩 Core Capabilities Implemented  
 
