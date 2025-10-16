@@ -3,7 +3,10 @@
 > End-to-end applied NLP development and deployment using **Azure AI Language**, **Speech**, and **Translator Services** — integrating traditional NLP pipelines with Generative AI and multimodal capabilities.
 
 ---
-
+📂 **Explore the Project:**  
+- View implementation notebooks in the **[Projects](./Projects)** folder  
+- See experiment visuals in the **[Lab Screenshots](./lab_screenshots)** folder
+  
 ## 🚀 Project Overview  
 
 This repository demonstrates how I build and operationalise **Natural Language Processing (NLP)** solutions using **Azure AI**.  
@@ -12,9 +15,6 @@ It includes **real-world patterns** that can be extended across **healthcare**, 
 Each notebook or script represents a key NLP capability implemented through Azure services and Python SDKs — from **text analytics and custom model training** to **voice-interactive generative agents**.
 
 ---
-📂 **Explore the Project:**  
-- View implementation notebooks in the **[Projects](./Projects)** folder  
-- See experiment visuals in the **[Lab Screenshots](./lab_screenshots)** folder  
 
 ## 🧩 Core Capabilities Implemented  
 
